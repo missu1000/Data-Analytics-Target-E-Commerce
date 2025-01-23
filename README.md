@@ -1,0 +1,1 @@
+This project aims to develop a data analysis solution for Target Sales E-commerce, enabling the company to gain valuable insights from its sales data. Utilizing Python with libraries such as NumPy, Pandas, and Seaborn, along with MySQL for data extraction and management, the project will address a range of business inquiries through data exploration and analysis.
